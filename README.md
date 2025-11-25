@@ -24,7 +24,7 @@
 
 > Replace this image link with your game screenshot.
 
-![Game Preview](https://via.placeholder.com/800x400.png?text=Tic+Tac+Toe+Preview)
+![Game Preview](blob:https://imageresizer.com/9376a1e6-9ed5-4288-9c85-5deda5df7dec)
 
 ---
 
